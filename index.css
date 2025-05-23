@@ -1,0 +1,21 @@
+.link, .h2{
+    color: black;
+}
+
+.link:hover{
+text-decoration: none;
+color: black;
+}
+
+.vincent img{
+    height: 200px;
+}
+
+.bryan img{
+    height: 200px;
+}
+
+.tiffany img{
+    height: 200px;
+}
+
